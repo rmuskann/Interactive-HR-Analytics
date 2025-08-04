@@ -64,7 +64,7 @@ To demonstrate how Excel can be used to build interactive dashboards that provid
 
 - `HR_Analytics_Dashboard.xlsx` – The interactive Excel file
 - `README.md` – Project documentation
-- (Optional) `Sample_Data.csv` – Cleaned and used raw data (if shared separately)
+- `Sample_Data.csv` – Cleaned and used raw data 
 
 ## 🧠 How to Use
 
