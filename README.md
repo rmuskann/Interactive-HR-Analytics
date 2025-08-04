@@ -58,7 +58,7 @@ To demonstrate how Excel can be used to build interactive dashboards that provid
 
 ## 📸 Dashboard Screenshot
 
-![HR Analytics Dashboard Screenshot](link-to-screenshot-or-upload)
+![HR Analytics Dashboard Screenshot](https://github.com/rmuskann/Interactive-HR-Analytics/blob/main/Dashboard%20Snapshot.png)
 
 ## 📁 Files Included
 
